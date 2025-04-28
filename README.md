@@ -29,5 +29,4 @@
     <a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="neovim" height="30" /></a>
     <a href="https://traefik.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/traefikproxy/traefikproxy-original.svg" alt="traefik" height="30" /></a>
     <a href="https://www.borgbackup.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/borg.svg" alt="borg" height="30" /></a>
-    <a href="https://www.ollama.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/ollama.svg" alt="ollama" height="30" /></a>
 </p>
