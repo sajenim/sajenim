@@ -6,20 +6,23 @@
 - 📝 I write articles on [https://sajenim.dev](https://sajenim.dev)
 - 💬 Ask me about keyboard layouts.
 
-#### Selfhosted Services:
+#### Media Stack:
 <p align="left">
-    <a href="https://www.minecraft.net/en-us/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/minecraft.svg" alt="minecraft" height="30" /></a>
-    <a href="https://forgejo.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/forgejo.svg" alt="forgejo" height="30" /></a>
-    <a href="https://www.qbittorrent.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/qbittorrent.svg" alt="qbittorrent" height="30" /></a>
     <a href="https://jellyfin.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/jellyfin.svg" alt="jellyfin" height="30" /></a>
     <a href="https://sonarr.tv/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/sonarr.svg" alt="sonarr" height="30" /></a>
     <a href="https://radarr.video/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/radarr.svg" alt="radarr" height="30" /></a>
     <a href="https://lidarr.audio/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/lidarr.svg" alt="lidarr" height="30" /></a>
-    <a href="https://github.com/Fallenbagel/jellyseerr/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/jellyseerr.svg" alt="jellyseerr" height="30" /></a>
-    <a href="https://adguard.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/adguard-home.svg" alt="adguard" height="30" /></a>
+    <a href="https://www.qbittorrent.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/qbittorrent.svg" alt="qbittorrent" height="30" /></a>
+</p>
+
+#### Selfhosted Services:
+<p align="left">
+    <a href="https://forgejo.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/forgejo.svg" alt="forgejo" height="30" /></a>
+    <a href="https://pi-hole.net/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/pi-hole.svg" alt="pihole" height="30" /></a>
+    <a href="https://www.nlnetlabs.nl/projects/unbound/about/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/unbound.svg" alt="unbound" height="30" /></a>
     <a href="https://www.musicpd.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/PapirusDevelopmentTeam/papirus_icons/src/apps_mpd.svg" alt="mpd" height="30" /></a>
-    <a href="https://microbin.eu/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/microbin.png" alt="microbin" height="30" /></a>
-    <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/apache.svg" alt="httpd" height="30" /></a>
+    <a href="https://www.lighttpd.net/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/lighttpd.svg" alt="lighttpd" height="30" /></a>
+    <a href="https://www.minecraft.net/en-us/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/minecraft.svg" alt="minecraft" height="30" /></a>
 </p>
 
 #### Laungages and Tools:
