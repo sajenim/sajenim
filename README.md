@@ -1,4 +1,4 @@
-### Jasmine - Researcher & Infrastructure Engineer
+### Jasmine - Researcher & Systems Engineer
 
 > *"Do not go gentle into that good night,  
 > Rage, rage against the dying of the light"*
@@ -20,7 +20,7 @@ Developing reflective technology and trauma-informed systems for survivors and c
 
 **Languages:** C, Rust, Nix, Haskell
 
-**Technical foundation:** Declarative infrastructure, systems programming, functional programming.
+**Technical foundation:** Systems programming, declarative infrastructure, functional programming.
 
 #### Media Stack:
 <p align="left">
